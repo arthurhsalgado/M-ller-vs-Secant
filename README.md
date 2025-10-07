@@ -28,3 +28,9 @@ Assim, ao avaliar as raízes usando ambos os métodos existe um comparativo do e
 <p align="center">
   <img src="https://github.com/arthurhsalgado/M-ller-vs-Secant/raw/main/ResultadosSecantes.png" alt="Resultados da Secante" />
 </p>
+
+### Resultados do Método de Müller
+
+<p align="center">
+  <img src="https://github.com/arthurhsalgado/M-ller-vs-Secant/raw/main/ResultadosMuller.png" alt="Resultados de Müller" />
+</p>

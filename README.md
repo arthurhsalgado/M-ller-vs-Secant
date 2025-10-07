@@ -23,3 +23,8 @@ $$
 
 Assim, ao avaliar as raízes usando ambos os métodos existe um comparativo do erro avaliado por tempo, conforme:
 
+### Resultados do Método da Secante
+
+<p align="center">
+  <img src="https://github.com/arthurhsalgado/M-ller-vs-Secant/raw/main/ResultadosSecantes.png" alt="Resultados da Secante" />
+</p>
